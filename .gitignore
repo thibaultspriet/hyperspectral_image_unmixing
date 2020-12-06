@@ -1,2 +1,5 @@
 *.pdf
 parallelProgramationExemple.ipynb
+.vscode
+.ipynb_checkpoints
+*.mat
